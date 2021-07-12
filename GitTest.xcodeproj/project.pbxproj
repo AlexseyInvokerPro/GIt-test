@@ -16,6 +16,7 @@
 		69DC0E05269C83B200F4F542 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DC0E04269C83B200F4F542 /* TestClass.swift */; };
 		69DC0E07269C85BE00F4F542 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DC0E06269C85BE00F4F542 /* Error.swift */; };
 		69DC0E09269C868400F4F542 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 69DC0E08269C868400F4F542 /* .gitignore */; };
+		69DC0E0B269C87EE00F4F542 /* newBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DC0E0A269C87EE00F4F542 /* newBranch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		69DC0E04269C83B200F4F542 /* TestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
 		69DC0E06269C85BE00F4F542 /* Error.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
 		69DC0E08269C868400F4F542 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		69DC0E0A269C87EE00F4F542 /* newBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newBranch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				69DC0DF4269C82D400F4F542 /* ViewController.swift */,
 				69DC0E06269C85BE00F4F542 /* Error.swift */,
 				69DC0E08269C868400F4F542 /* .gitignore */,
+				69DC0E0A269C87EE00F4F542 /* newBranch.swift */,
 				69DC0E04269C83B200F4F542 /* TestClass.swift */,
 				69DC0DF6269C82D400F4F542 /* Main.storyboard */,
 				69DC0DF9269C82D600F4F542 /* Assets.xcassets */,
@@ -149,6 +152,7 @@
 			files = (
 				69DC0E05269C83B200F4F542 /* TestClass.swift in Sources */,
 				69DC0DF5269C82D400F4F542 /* ViewController.swift in Sources */,
+				69DC0E0B269C87EE00F4F542 /* newBranch.swift in Sources */,
 				69DC0DF1269C82D400F4F542 /* AppDelegate.swift in Sources */,
 				69DC0E07269C85BE00F4F542 /* Error.swift in Sources */,
 				69DC0DF3269C82D400F4F542 /* SceneDelegate.swift in Sources */,
